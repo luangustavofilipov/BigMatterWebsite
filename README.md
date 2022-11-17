@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Barbetta - Barbershop
 
 ### Used languages
@@ -60,40 +59,3 @@
 ### Used Operational System
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
-
-
-
-### Screenshots - Login
-
-![image-20221117112706846](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117112706846.png) 
-
-### Screenshots - Signup
-
-![image-20221117113227838](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117113227838.png)
-
-### Screenshots - Start page
-
-![image-20221117112826992](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117112826992.png) 
-
-![image-20221117112914768](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117112914768.png) 
-
-![image-20221117112930658](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117112930658.png) 
-
-![image-20221117112958417](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117112958417.png) 
-
-
-
-### Screenshots - About
-
-![image-20221117113044732](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117113044732.png) 
-
-### Screenshots - Products
-
-![image-20221117113117869](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117113117869.png) 
-
-:copyright: Big Matter - 2022																										:construction:In construction:construction:
-=======
-# Barbetta - Barber Shop
-
-Barbearia fictícia para um projeto no curso de A.D.S da FAPEN.
->>>>>>> 4f4ddaba528977ce1bde94656d2995fe38694eb9
