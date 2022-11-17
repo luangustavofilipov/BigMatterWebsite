@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Barbetta - Barbershop
 
 ### Used languages
@@ -91,3 +92,8 @@
 ![image-20221117113117869](C:\Users\Luan Filipov\AppData\Roaming\Typora\typora-user-images\image-20221117113117869.png) 
 
 :copyright: Big Matter - 2022																										:construction:In construction:construction:
+=======
+# Barbetta - Barber Shop
+
+Barbearia fictícia para um projeto no curso de A.D.S da FAPEN.
+>>>>>>> 4f4ddaba528977ce1bde94656d2995fe38694eb9
