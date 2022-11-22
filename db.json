@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Gel para Barba",
+      "price": "30.00",
+      "id": 1
+    },
+    {
+      "name": "Pente para Barba e Cabelo",
+      "price": "20.00",
+      "id": 2
+    },
+    {
+      "name": "Minoxidil para Barba",
+      "price": "80.75",
+      "id": 3
+    },
+    {
+      "name": "Shampoo para Cabelo",
+      "price": "30.60",
+      "id": 4
+    },
+    {
+      "name": "Perfume para Barba",
+      "price": "12.65",
+      "id": 5
+    }
+  ]
+}
